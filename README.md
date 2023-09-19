@@ -1,6 +1,6 @@
 # Explorando IA Generativa em um Pipeline de ETL com Python
 
-# Sobre:
+# Sobre: #
 Projeto para a exploração de IA generativa em uma pipeline de ETL com Python.
 
 # Proposta:
